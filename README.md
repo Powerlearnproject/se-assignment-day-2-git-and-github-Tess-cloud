@@ -160,7 +160,8 @@ Forgetting to Pull Updates: Leads to outdated local copies and potential conflic
 
 Ignoring .gitignore: Where unnecessary files (logs, environment settings) get committed.
 
-3. Best Practices to Overcome These Challenges
+2. Best Practices to Overcome These Challenges
+   
 ✅ Use Meaningful Commit Messages – Clearly describe changes where possible.
 
 ✅ Work with Branches – Keep the main branch stable while developing new features separately.
@@ -171,7 +172,7 @@ Ignoring .gitignore: Where unnecessary files (logs, environment settings) get co
 
 ✅ Use .gitignore Properly – Avoid committing unnecessary files where they are not needed.
 
-5. Ensuring Smooth Collaboration
+3. Ensuring Smooth Collaboration
 Where multiple developers contribute, follow a structured Git workflow (e.g., feature branches, pull requests).
 While reviewing code, use GitHub’s built-in code review features to maintain quality.
 Where communication is key, document processes in a README file to ensure consistency.
